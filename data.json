@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Caramel Macchiato",
+      "description": "Espresso with vanilla-flavored syrup, steamed milk, and caramel sauce."
+    },
+    {
+      "name": "Pumpkin Spice Latte",
+      "description": "Espresso with pumpkin, cinnamon, nutmeg, and steamed milk."
+    },
+    {
+      "name": "Iced White Chocolate Mocha",
+      "description": "Espresso with white chocolate sauce and milk, served over ice."
+    },
+    {
+      "name": "Cold Brew Coffee",
+      "description": "Smooth, rich cold brew coffee, served over ice."
+    },
+    {
+      "name": "Chai Tea Latte",
+      "description": "Black tea infused with spices like cardamom, cinnamon, and cloves, steamed with milk."
+    }
+  ]
